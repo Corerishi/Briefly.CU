@@ -41,10 +41,12 @@
     streamlit run app.py
     ```
 
-## 📊 Evaluation Rubrics Adherence
-* **Innovative Idea:** Transitioned from a simple PDF reader to a university-specific Viva preparation tool.
-* **Complexity:** Implemented Graph-based ranking and TF-IDF rather than simple rule-based logic.
-* **Real-time Application:** Fully deployable on Streamlit Community Cloud for instant access.
-
 ---
 **Developed by:** Rishi Raj  
+
+<img width="1912" height="966" alt="image" src="https://github.com/user-attachments/assets/aaaa9eac-4cb1-41e6-b1fc-d87cea695562" />
+
+<img width="1918" height="977" alt="image" src="https://github.com/user-attachments/assets/657a1346-648c-4c50-909c-bba8db249f48" />
+
+<img width="1918" height="964" alt="image" src="https://github.com/user-attachments/assets/23dd6eda-84a9-4700-83ca-3aaa9ee013a9" />
+
