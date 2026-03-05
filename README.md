@@ -17,7 +17,7 @@
 * **Graph Theory:** [NetworkX](https://networkx.org/) (for PageRank implementation)
 * **PDF Processing:** [PDFPlumber](https://github.com/jsvine/pdfplumber)
 
-## 🧠 How it Works (For Viva Preparation)
+## 🧠 How it Works
 1.  **Preprocessing:** The app cleans the PDF text, removes stop words, and tokenizes content into sentences and words.
 2.  **Vectorization:** Each sentence is converted into a mathematical vector using **TF-IDF**, allowing the computer to "measure" the importance of words.
 3.  **Graph Construction:** A similarity matrix is built using **Cosine Similarity**, creating a network where sentences are nodes and similarities are edges.
